@@ -6,12 +6,11 @@
 /*   By: adrherna <adrianhdt.2001@gmail.com>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/06 11:25:09 by adrherna          #+#    #+#             */
-/*   Updated: 2024/05/09 11:09:12 by adrherna         ###   ########.fr       */
+/*   Updated: 2024/12/11 16:16:01 by adrherna         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long.h"
-#include <stdio.h>
+#include "../../includes/so_long.h"
 
 int	tile_draw(t_map_data *map, mlx_image_t *image, int x, int y)
 {

@@ -6,19 +6,11 @@
 /*   By: adrherna <adrianhdt.2001@gmail.com>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/23 10:44:11 by adrherna          #+#    #+#             */
-/*   Updated: 2024/05/21 12:22:43 by adrherna         ###   ########.fr       */
+/*   Updated: 2024/12/11 16:10:55 by adrherna         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
-#include "libft/libft.h"
-#include "so_long.h"
-#include <stddef.h>
-#include <stdint.h>
-#include <stdlib.h>
-#include <string.h>
-#include <unistd.h>
-#include <ctype.h>
+#include "../../includes/so_long.h"
 
 void	free_map_data(t_map_data *map)
 {

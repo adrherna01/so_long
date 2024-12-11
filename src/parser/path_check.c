@@ -6,13 +6,11 @@
 /*   By: adrherna <adrianhdt.2001@gmail.com>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/25 13:11:53 by adrherna          #+#    #+#             */
-/*   Updated: 2024/05/06 14:47:46 by adrherna         ###   ########.fr       */
+/*   Updated: 2024/12/11 16:10:45 by adrherna         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
-#include "so_long.h"
-#include <stdlib.h>
+#include "../../includes/so_long.h"
 
 int	map_dup(t_map_data *map)
 {

@@ -6,14 +6,11 @@
 /*   By: adrherna <adrianhdt.2001@gmail.com>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/23 11:43:53 by adrherna          #+#    #+#             */
-/*   Updated: 2024/05/09 10:34:46 by adrherna         ###   ########.fr       */
+/*   Updated: 2024/12/11 16:10:42 by adrherna         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
-#include "so_long.h"
-#include <stddef.h>
-#include <stdio.h>
+#include "../../includes/so_long.h"
 
 int	wall_checking(t_map_data *map)
 {

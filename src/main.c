@@ -6,14 +6,11 @@
 /*   By: adrherna <adrianhdt.2001@gmail.com>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/02 14:13:25 by adrherna          #+#    #+#             */
-/*   Updated: 2024/05/13 11:43:28 by adrherna         ###   ########.fr       */
+/*   Updated: 2024/12/11 16:11:04 by adrherna         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "MLX42/include/MLX42/MLX42.h"
-#include "libft/libft.h"
-#include "so_long.h"
-#include <stdio.h>
+#include "../includes/so_long.h"
 
 // void	leaks(void)
 // {

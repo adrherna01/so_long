@@ -1,18 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   su_long_utils_2.c                                  :+:      :+:    :+:   */
+/*   so_long_utils_2.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: adrherna <adrianhdt.2001@gmail.com>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/25 13:26:02 by adrherna          #+#    #+#             */
-/*   Updated: 2024/05/09 11:20:02 by adrherna         ###   ########.fr       */
+/*   Updated: 2024/12/11 16:10:51 by adrherna         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft/libft.h"
-#include "so_long.h"
-#include <stdio.h>
+#include "../../includes/so_long.h"
 
 bool	load_texture(mlx_t *mlx, const char *path, mlx_image_t **texture)
 {

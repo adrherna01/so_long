@@ -6,11 +6,11 @@
 /*   By: adrherna <adrianhdt.2001@gmail.com>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/06 12:15:39 by adrherna          #+#    #+#             */
-/*   Updated: 2024/05/09 11:19:48 by adrherna         ###   ########.fr       */
+/*   Updated: 2024/12/11 16:10:27 by adrherna         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long.h"
+#include "../../includes/so_long.h"
 
 int	init(t_map_data *map)
 {
